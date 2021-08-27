@@ -20,4 +20,3 @@ SSH_PRIVATE_KEY is the private key for the user that has admin rights on that vm
 5. Push new code to the main branch
 6. Open in your browser `https://app.<server-ip>.nip.io`
 
-Test
